@@ -1,0 +1,22 @@
+{
+  "name": "minimal-history-api-example",
+  "version": "1.0.0",
+  "description": "This repo contains a minimal Node.js application serving an SPA with the History API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricklamers/minimal-history-api-example.git"
+  },
+  "author": "R. Lamers",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/ricklamers/minimal-history-api-example/issues"
+  },
+  "homepage": "https://github.com/ricklamers/minimal-history-api-example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
